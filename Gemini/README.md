@@ -4,7 +4,7 @@ This is a fully responsive Google Gemini-themed web application built using mode
 ---
 
 ## Demo
-🚀 You can view the live demo of the project here: [Click me](https://gemini-s32a.onrender.com/)
+🚀 You can view the live demo of the project here: [Click me](https://gemini-pi-henna.vercel.app/)
 
 ---
 
@@ -21,7 +21,7 @@ This is a fully responsive Google Gemini-themed web application built using mode
 
 ## Screenshots
 <p align="center">
-  <img src="./src/assets/Screenshot.png" alt="Gemini Clone Screenshot" width="800">
+  <img src="./src/assets/ss.jpg" alt="Gemini Clone Screenshot" width="800">
 </p>
 
 ---

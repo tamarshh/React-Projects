@@ -8,7 +8,7 @@ Mac3D-Model is a minimal React + Vite project template, designed for experimenti
 ## 🚀 Live Demo
 
 <!-- Add your live link below -->
-Live Project: [View Demo](#)
+Live Project: [View Demo](https://macmodel.vercel.app/)
 
 ---
 
@@ -16,7 +16,7 @@ Live Project: [View Demo](#)
 
 <!-- Add your screenshot(s) here -->
 <p align="center">
-  <img src="./screenshot.png" alt="Mac3D-Model Screenshot" width="800">
+  <img src="./src/assets/ss.jpg" alt="Mac3D-Model Screenshot" width="800">
 </p>
 
 ---
